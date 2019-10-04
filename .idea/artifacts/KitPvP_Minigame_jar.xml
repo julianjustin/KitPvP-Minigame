@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KitPvP Minigame:jar">
+    <output-path>$PROJECT_DIR$/../Test Server 1.8.8/plugins</output-path>
+    <root id="archive" name="KitPvP Minigame.jar">
+      <element id="module-output" name="KitPvP Minigame" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Test Server 1.8.8/spigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
