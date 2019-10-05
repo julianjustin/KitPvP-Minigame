@@ -3,3 +3,10 @@ version: 1.0.0
 main: de.julian.kitpvp.main.Main
 author: Julian
 
+commands:
+  join:
+    description: A Join Command
+    usage: /join
+  start:
+    description: A Start Command
+    usage: /start
